@@ -20,10 +20,10 @@ My project work reflects real-world scenarios: simulated red team engagements, c
 
 | # | Project | Focus Area | Key Tools | Status |
 |---|---------|------------|-----------|--------|
-| 1 | [Red Team Penetration Testing Lab](#) | Offensive Security / PTES | Security Onion · Metasploit · Ettercap · Hydra | Complete |
-| 2 | [Vulnerability Assessment & Essential Eight Implementation](#) | Compliance / Hardening | Nessus · Windows Server 2019 · MS SQL | Complete |
-| 3 | [SOC Design & Implementation](#) | SOC / Network Security | Splunk · FortiGate NGFW · Wireshark · MS Visio | Complete |
-| 4 | [Security Incident Investigation — Splunk & AWS CloudTrail](#) | DFIR / Cloud Forensics | Splunk · AWS CloudTrail · Chef | Complete |
+| 1 | [SOC Design & Implementation](https://github.com/aswini-manickam/soc-design-implementation) | SOC / Network Security | Splunk · FortiGate NGFW · Wireshark · MS Visio | Complete | 
+| 2 | [Vulnerability Assessment & Essential Eight Implementation](https://github.com/aswini-manickam/vulnerability-assessment-essential-eight) | Compliance / Hardening | Nessus · Windows Server 2019 · MS SQL | Complete |
+| 3 | [Security Incident Investigation — Splunk & AWS CloudTrail](https://github.com/aswini-manickam/security-incident-investigation-splunk-aws) | DFIR / Cloud Forensics | Splunk · AWS CloudTrail · Chef | Complete |
+| 4 | [Red Team Penetration Testing Lab](https://github.com/aswini-manickam/red-team-pentest-lab) | Offensive Security / PTES | Security Onion · Metasploit · Ettercap · Hydra | Complete |
 
 ---
 
