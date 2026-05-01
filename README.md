@@ -1,7 +1,7 @@
 [README (1).md](https://github.com/user-attachments/files/27268807/README.1.md)
 # Hi, I'm Aswini Manickam
 
-**Cybersecurity Professional** | Red & Blue Team | SOC Operations | Penetration Testing | Incident Response
+** Certified Cybersecurity Professional** | SOC Analyst | CyberOps Associate | ISC2 CC | Technical Trainer | Security Awareness Facilitator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aswini-manickam/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/aswini-manickam)
