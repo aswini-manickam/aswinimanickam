@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/27268807/README.1.md)
-# Hi, I'm Aswini Manickam 👋
+# Hi, I'm Aswini Manickam
 
 **Cybersecurity Professional** | Red & Blue Team | SOC Operations | Penetration Testing | Incident Response
 
@@ -16,18 +16,18 @@ My project work reflects real-world scenarios: simulated red team engagements, c
 
 ---
 
-## 🗂️ Project Portfolio
+## Project Portfolio
 
 | # | Project | Focus Area | Key Tools | Status |
 |---|---------|------------|-----------|--------|
-| 1 | [🔴 Red Team Penetration Testing Lab](#) | Offensive Security / PTES | Security Onion · Metasploit · Ettercap · Hydra | ✅ Complete |
-| 2 | [🛡️ Vulnerability Assessment & Essential Eight Implementation](#) | Compliance / Hardening | Nessus · Windows Server 2019 · MS SQL | ✅ Complete |
-| 3 | [🏗️ SOC Design & Implementation](#) | SOC / Network Security | Splunk · FortiGate NGFW · Wireshark · MS Visio | ✅ Complete |
-| 4 | [🔍 Security Incident Investigation — Splunk & AWS CloudTrail](#) | DFIR / Cloud Forensics | Splunk · AWS CloudTrail · Chef | ✅ Complete |
+| 1 | [Red Team Penetration Testing Lab](#) | Offensive Security / PTES | Security Onion · Metasploit · Ettercap · Hydra | Complete |
+| 2 | [Vulnerability Assessment & Essential Eight Implementation](#) | Compliance / Hardening | Nessus · Windows Server 2019 · MS SQL | Complete |
+| 3 | [SOC Design & Implementation](#) | SOC / Network Security | Splunk · FortiGate NGFW · Wireshark · MS Visio | Complete |
+| 4 | [Security Incident Investigation — Splunk & AWS CloudTrail](#) | DFIR / Cloud Forensics | Splunk · AWS CloudTrail · Chef | Complete |
 
 ---
 
-## 🔴 1. Red Team Penetration Testing Lab
+##  1. Red Team Penetration Testing Lab
 
 **Repo:** [`red-team-pentest-lab`](https://github.com/aswinimanickam/red-team-pentest-lab)
 
@@ -43,7 +43,7 @@ Simulated adversarial attack scenarios in a controlled lab environment, aligned 
 
 ---
 
-## 🛡️ 2. Vulnerability Assessment & Essential Eight Implementation
+##  2. Vulnerability Assessment & Essential Eight Implementation
 
 **Repo:** [`vulnerability-assessment-essential-eight`](https://github.com/aswinimanickam/vulnerability-assessment-essential-eight)
 
@@ -59,7 +59,7 @@ End-to-end vulnerability assessment of a simulated critical infrastructure envir
 
 ---
 
-## 🏗️ 3. SOC Design & Implementation — Capstone
+##  3. SOC Design & Implementation — Capstone
 
 **Repo:** [`soc-design-implementation`](https://github.com/aswinimanickam/soc-design-implementation)
 
@@ -75,7 +75,7 @@ Designed and deployed a full **SOC-integrated network infrastructure** from the 
 
 ---
 
-## 🔍 4. Security Incident Investigation — Splunk & AWS CloudTrail
+##  4. Security Incident Investigation — Splunk & AWS CloudTrail
 
 **Repo:** [`security-incident-investigation-splunk-aws`](https://github.com/aswinimanickam/security-incident-investigation-splunk-aws)
 
@@ -90,7 +90,7 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 ---
 
-## 🧰 Core Technical Skills
+##  Core Technical Skills
 
 | Category | Tools & Technologies |
 |----------|----------------------|
@@ -105,7 +105,7 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 ---
 
-## 📄 Certifications & Qualifications
+##  Certifications & Qualifications
 
 - **Diploma in Cybersecurity**
 - **Certificate IV in Cyber Security**
@@ -114,10 +114,10 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/aswinimanickam)
-- 🐙 [GitHub](https://github.com/aswinimanickam)
+-  [LinkedIn](https://linkedin.com/in/aswinimanickam)
+-  [GitHub](https://github.com/aswinimanickam)
 
 ---
 
