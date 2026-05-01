@@ -116,8 +116,8 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 ##  Contact
 
--  [LinkedIn](https://linkedin.com/in/aswinimanickam)
--  [GitHub](https://github.com/aswinimanickam)
+-  [LinkedIn](https://www.linkedin.com/in/aswini-manickam/)
+-  [GitHub](https://github.com/aswini-manickam)
 
 ---
 
