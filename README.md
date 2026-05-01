@@ -27,19 +27,19 @@ My project work reflects real-world scenarios: simulated red team engagements, c
 
 ---
 
-##  1. Red Team Penetration Testing Lab
+##  1. SOC Design & Implementation — Capstone
 
-**Repo:** [`red-team-pentest-lab`](https://github.com/aswinimanickam/red-team-pentest-lab)
+**Repo:** [`soc-design-implementation`](https://github.com/aswinimanickam/soc-design-implementation)
 
-Simulated adversarial attack scenarios in a controlled lab environment, aligned to **PTES penetration testing methodology** and **MITRE ATT&CK** framework.
+Designed and deployed a full **SOC-integrated network infrastructure** from the ground up — covering architecture design through to live threat detection and SIEM monitoring.
 
 **Highlights:**
-- Executed TCP SYN flood, Smurf attack (DDoS simulations), ARP poisoning (MitM), ransomware via reverse shell, SQL injection, and brute-force attacks
-- Used Metasploit, Ettercap, and Hydra for structured attack simulation
-- Validated SIEM detection coverage across Security Onion
-- Blue team response: configured IPS rules, SYN flood protection, web filtering, and produced structured Incident Response documentation
+- Designed network infrastructure covering TCP/IP, OSI, DNS, subnetting, and firewall architecture
+- Configured FortiGate NGFW with firewall policies and FortiGuard IDS/IPS for live threat detection
+- Deployed Splunk Universal Forwarders, add-ons, and CIM for real-time log analysis
+- Conducted web and network penetration testing with structured pentest reports
 
-**Skills demonstrated:** `Penetration Testing` · `MITRE ATT&CK` · `PTES` · `SIEM` · `Incident Response`
+**Skills demonstrated:** `SOC Architecture` · `FortiGate NGFW` · `Splunk` · `IDS/IPS` · `Network Security`
 
 ---
 
@@ -58,24 +58,7 @@ End-to-end vulnerability assessment of a simulated critical infrastructure envir
 **Skills demonstrated:** `Nessus` · `CVE Triage` · `Essential Eight` · `System Hardening` · `Patch Management`
 
 ---
-
-##  3. SOC Design & Implementation — Capstone
-
-**Repo:** [`soc-design-implementation`](https://github.com/aswinimanickam/soc-design-implementation)
-
-Designed and deployed a full **SOC-integrated network infrastructure** from the ground up — covering architecture design through to live threat detection and SIEM monitoring.
-
-**Highlights:**
-- Designed network infrastructure covering TCP/IP, OSI, DNS, subnetting, and firewall architecture
-- Configured FortiGate NGFW with firewall policies and FortiGuard IDS/IPS for live threat detection
-- Deployed Splunk Universal Forwarders, add-ons, and CIM for real-time log analysis
-- Conducted web and network penetration testing with structured pentest reports
-
-**Skills demonstrated:** `SOC Architecture` · `FortiGate NGFW` · `Splunk` · `IDS/IPS` · `Network Security`
-
----
-
-##  4. Security Incident Investigation — Splunk & AWS CloudTrail
+##  3. Security Incident Investigation — Splunk & AWS CloudTrail
 
 **Repo:** [`security-incident-investigation-splunk-aws`](https://github.com/aswinimanickam/security-incident-investigation-splunk-aws)
 
@@ -88,6 +71,20 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 **Skills demonstrated:** `DFIR` · `Splunk` · `AWS CloudTrail` · `Phishing Investigation` · `Cloud Forensics`
 
+---
+##  4. Red Team Penetration Testing Lab
+
+**Repo:** [`red-team-pentest-lab`](https://github.com/aswinimanickam/red-team-pentest-lab)
+
+Simulated adversarial attack scenarios in a controlled lab environment, aligned to **PTES penetration testing methodology** and **MITRE ATT&CK** framework.
+
+**Highlights:**
+- Executed TCP SYN flood, Smurf attack (DDoS simulations), ARP poisoning (MitM), ransomware via reverse shell, SQL injection, and brute-force attacks
+- Used Metasploit, Ettercap, and Hydra for structured attack simulation
+- Validated SIEM detection coverage across Security Onion
+- Blue team response: configured IPS rules, SYN flood protection, web filtering, and produced structured Incident Response documentation
+
+**Skills demonstrated:** `Penetration Testing` · `MITRE ATT&CK` · `PTES` · `SIEM` · `Incident Response`
 ---
 
 ##  Core Technical Skills
@@ -107,6 +104,8 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 
 ##  Certifications & Qualifications
 
+- **Cisco CyberOps Associate**
+- **ISC2 CC**
 - **Diploma in Cybersecurity**
 - **Certificate IV in Cyber Security**
 - **Bachelor's in Electrical and Electronics**
