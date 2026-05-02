@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a cybersecurity practitioner with hands-on experience across **offensive and defensive security** disciplines -from executing structured penetration tests mapped to MITRE ATT&CK and PTES, to designing SOC infrastructure, implementing compliance frameworks, and conducting forensic incident investigations.
+I'm a cybersecurity practitioner with hands-on experience across **defensive and security** disciplines -from designing SOC infrastructure to executing structured penetration tests mapped to MITRE ATT&CK and PTES, implementing compliance frameworks, and conducting forensic incident investigations.
 
 My project work reflects real-world scenarios: simulated red team engagements, critical infrastructure vulnerability assessments, SIEM deployments, and cloud forensics — all documented to professional reporting standards.
 
