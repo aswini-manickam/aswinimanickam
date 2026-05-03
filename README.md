@@ -29,7 +29,7 @@ My project work reflects real-world scenarios: simulated red team engagements, c
 
 ##  1. SOC Design & Implementation — Capstone
 
-**Repo:** [`soc-design-implementation`](https://github.com/aswinimanickam/soc-design-implementation)
+**Repo:** [`soc-design-implementation`](https://github.com/aswini-manickam/soc-design-implementation)
 
 Designed and deployed a full **SOC-integrated network infrastructure** from the ground up — covering architecture design through to live threat detection and SIEM monitoring.
 
@@ -45,7 +45,7 @@ Designed and deployed a full **SOC-integrated network infrastructure** from the 
 
 ##  2. Vulnerability Assessment & Essential Eight Implementation
 
-**Repo:** [`vulnerability-assessment-essential-eight`](https://github.com/aswinimanickam/vulnerability-assessment-essential-eight)
+**Repo:** [`vulnerability-assessment-essential-eight`](https://github.com/aswini-manickam/vulnerability-assessment-essential-eight)
 
 End-to-end vulnerability assessment of a simulated critical infrastructure environment, followed by full **Australian Essential Eight** control implementation.
 
@@ -60,7 +60,7 @@ End-to-end vulnerability assessment of a simulated critical infrastructure envir
 ---
 ##  3. Security Incident Investigation — Splunk & AWS CloudTrail
 
-**Repo:** [`security-incident-investigation-splunk-aws`](https://github.com/aswinimanickam/security-incident-investigation-splunk-aws)
+**Repo:** [`security-incident-investigation-splunk-aws`](https://github.com/aswini-manickam/security-incident-investigation-splunk-aws)
 
 Conducted two structured **digital forensic investigations** — a malicious S3 file upload and a coordinated phishing campaign — using Splunk correlation and AWS CloudTrail analysis.
 
@@ -74,7 +74,7 @@ Conducted two structured **digital forensic investigations** — a malicious S3 
 ---
 ##  4. Red Team Penetration Testing Lab
 
-**Repo:** [`red-team-pentest-lab`](https://github.com/aswinimanickam/red-team-pentest-lab)
+**Repo:** [`red-team-pentest-lab`](https://github.com/aswini-manickam/red-team-pentest-lab)
 
 Simulated adversarial attack scenarios in a controlled lab environment, aligned to **PTES penetration testing methodology** and **MITRE ATT&CK** framework.
 
